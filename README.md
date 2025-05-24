@@ -118,6 +118,6 @@ foodprep-manager/
 ## 👨‍💻 Author
 
 **Eli**
-A Python and crochet enthusiast who loves combining creativity and logic.
+A programmer and crochet enthusiast who loves combining creativity and logic.
 
 ---
